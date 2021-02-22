@@ -1,3 +1,5 @@
+//using switch for conditionals
+
 switch (day) {
   case 0:
     console.log('Sunday');
