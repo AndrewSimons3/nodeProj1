@@ -7,4 +7,7 @@ switch (day) {
   case 1:
     console.log('Monday');
     break;
+  default:
+    console.log('invalid day');
+    break;
 }
