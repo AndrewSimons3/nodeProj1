@@ -11,3 +11,4 @@ switch (day) {
     console.log('invalid day');
     break;
 }
+
